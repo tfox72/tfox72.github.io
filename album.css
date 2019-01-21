@@ -42,3 +42,9 @@ main {
   font-family: 'Charm', cursive;
   font-family: 'Merriweather', serif;
 }
+
+section {
+  background-image: url("pics/back.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
