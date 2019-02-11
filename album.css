@@ -46,7 +46,7 @@ main {
 }
 
 section {
-  background-image: url("pics/t.jpg");
+  background-image: url("/pics/t.jpg");
   background-repeat: no-repeat;
   background-position: center ;
   height: 800px;
